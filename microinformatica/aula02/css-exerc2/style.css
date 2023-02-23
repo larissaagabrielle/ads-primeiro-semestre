@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: #BDCDD6;
+}
+
+.cabecalho {
+    background-color: #6096B4;
+    color: #EEE9DA;
+    padding: 80px 0px;
+}
+
+.titulo {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.corpo {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px 0px;
+}
+
+.titulo-corpo {
+    margin-bottom: 20px;
+    padding: 20px;
+    border-left: 7px solid #6096b4;
+}
+
+.texto-corpo {
+    margin-bottom: 20px;
+    text-align: justify;
+}
+
