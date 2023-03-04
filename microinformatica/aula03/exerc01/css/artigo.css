@@ -1,0 +1,23 @@
+.artigo {
+    gap: 0px;
+}
+
+
+.text-main {
+    width: 80%;
+    margin: 35px auto;
+    padding-left: 30px;
+}
+
+.text1 {
+    margin: 35px auto 80px;
+}
+
+.section-img {
+    width: 80%;
+    margin: 0px auto 35px;
+}
+
+img {
+    width: 100%;
+}

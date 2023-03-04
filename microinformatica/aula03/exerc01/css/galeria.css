@@ -1,0 +1,24 @@
+.galeria {
+    width: 80%;
+    padding: 35px 0;
+    margin: 0 auto;
+    display: flex;
+    gap: 20px;
+}
+
+.display {
+    display: flex;
+    justify-content: space-between;
+}
+
+.row1 img {
+    width: 30%;
+}
+
+.row2 img {
+    width: 10%;
+}
+
+.row3 img {
+    width: 100%;
+}
