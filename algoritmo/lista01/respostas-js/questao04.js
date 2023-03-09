@@ -12,11 +12,11 @@ document.write(`O segundo número é ${num2} <br>`)
 num1 = parseFloat(num1)
 num2 = parseFloat(num2)
 
-soma = num1 + 10
+soma = num1 + 1
 console.log(`O primeiro número + 10 é igual a: ${soma}`);
 document.write(`O primeiro número + 10 é igual a: ${soma} <br>`);
 
-menos = num2 - 10
+menos = num2 - 1
 console.log(`O segundo número - 10 é igual a: ${menos}`);
 document.write(`O segundo número - 10 é igual a: ${menos}`);
 
